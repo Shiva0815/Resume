@@ -1,0 +1,77 @@
+{
+	"basics": {
+		"name": "Shivang Yadav",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kucp1023@iiitkota.ac.in",
+		"phone": "6388349936",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Prayagraj",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [{
+				"network": "Github",
+				"username": "Shivang yadav",
+				"url": "https://github.com/Shiva0815"
+			},
+			{
+				"network": "linkedin",
+				"username": "Shivang yadav",
+				"url": "https://www.linkedin.com/in/shivang-yadav-393070230/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Shivang yadav",
+				"url": "https://www.instagram.com/shivang_yadav15/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2021",
+		"endDate": "2025",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"name": "Full Stack Development",
+		"level": "Master",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C",
+			"Python",
+			"Video Editing"
+		]
+	}],
+	"languages": [{
+		"language": "English"
+	}, {
+		"language": "Hindi"
+	}],
+	"interests": [{
+			"name": "Video Game",
+			"keywords": [
+				"Valorant (Platinum Lobby)(Shiva158#2410)",
+				"League of legend PC",
+                "CS GO"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Chess",
+				"Football"
+			]
+		}
+	]
+}
